@@ -10,8 +10,16 @@ I wanted to have a dynamic logic, and choose to work with objects that are updat
 
 But adding a boolean for if the last roll was a strike or not, also with keeping a strike calculator, I could calculate how many rolls after to add points to. Altough, the logic breaks if there are more than two strikes in a row, which I could not manage to get my head around within the time frame.
 
-And regarding the time fram, to be honest, this took me more than 2-3 hours. Understanding the rules of bowling, took me about an hour chatting with a friend of mine, I had completely misunderstood it based on the explanation to you, and having never known the rules of bowling, it sure was a bit tricky in the beginning. So, some feedback for you to think about in the instructions. Other than that, it was a funny, but tricky challenged, and I had fun doing it.
+The work itself took me about 4-5 hours in total.
 
-With more it would be fun to make a visual interpretation of this, something i might get on doing, just because it is fun.
+About 1 hour of understanding the rules of bowling(hehe).
+1/2 hour of building the logic.
+2 hours of building the app.
+2 hour of fixing errors and getting the work complete working.
+excluding time for understanding the rules of bowling, which took me about an hour.
 
-To open, download the zip, unzip, and open index.html in a browser.
+Having never known the rules of bowling, it was a bit tricky in the beginning to get how all the parts work. I would say that the instructions for the task does not really make clear how the rules of bowling work, unless you have a basic idea of it already. So, some feedback for you who gave me this task to think about. Other than that, it was a nice and tricky challenge, and I had fun doing it.
+
+The next step would be to make a visual interpretation of this, which I would be excited about.
+
+To open, download the zip, unzip, and open index.html in a browser. No packages, no nothing.
